@@ -12,3 +12,4 @@ QSN Retail Inc., is an e-commerce company that sells variety of products to ever
 - <a href='/QSN Retail.xlsx' target="_blank">Data</a> is an Excel file containing raw data about our customers, transactions, suppliers, products, etc.
 - <a href='/Analytical Business Questions.docx' target="_blank">Business Questions</a> that our team has come up. We use SQL to answer these questions.
 - <a href='/Final Project TeamProject QSNRetail ITM304 v1.1 (1).ppt' target="_blankl">PowerPoint Presentation</a> showing SQL code, results, and charts 
+- <a href='VIEW code.pdf' target="_blankl">VIEW table</a> is a denormalized, aggregated table built using SQL JOINS for query. We use this table to answer Business Questions.
