@@ -9,5 +9,5 @@ QSN Retail Inc., is an e-commerce company that sells variety of products to ever
 <h2>📁 Files</h2>
 
 - [Entity Relationship Diagram (ERD)](/ERD.pdf) is our graphical representation that depicts relationships among tables of data. It serves as the foundation for a relationship database.
-- [Data](QSN Retail.xlsx") is an Excel file containing raw data about our customers, transactions, suppliers, products, etc.
+- <a href='/QSN Retail.xlsx' target="_blank">Data</a> is an Excel file containing raw data about our customers, transactions, suppliers, products, etc.
 - 
