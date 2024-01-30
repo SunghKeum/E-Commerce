@@ -14,7 +14,7 @@ QSN Retail Inc., is an e-commerce company that sells variety of products to ever
 - <a href='/Final Project TeamProject QSNRetail ITM304 v1.1 (1).ppt' target="_blankl">PowerPoint Presentation</a> showing SQL code, results, and charts 
 - <a href='VIEW code.pdf' target="_blankl">VIEW table</a> is a denormalized, aggregated table built using SQL JOINS to eliminate redundant coding when writing SQL code for answering Business Questions.
 
-Take me to the [Dashboard]([https://public.tableau.com/app/profile/sung.keum/viz/CustomerOrderAnalysis_17044704343470/OverviewDashboard](https://public.tableau.com/views/CustomerOrderAnalysisQSNRetailInc_/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)).
+Take me to the [Dashboard](https://public.tableau.com/app/profile/sung.keum/viz/CustomerOrderAnalysisQSNRetailInc_/Dashboard1)
 
 <p align="center">
   <img width="1000" height="400" src="/Screenshot (89).png">
