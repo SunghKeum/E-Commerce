@@ -13,3 +13,12 @@ QSN Retail Inc., is an e-commerce company that sells variety of products to ever
 - <a href='/Analytical Business Questions.docx' target="_blank">Business Questions</a> that our team has come up. We use SQL to answer these questions.
 - <a href='/Final Project TeamProject QSNRetail ITM304 v1.1 (1).ppt' target="_blankl">PowerPoint Presentation</a> showing SQL code, results, and charts 
 - <a href='VIEW code.pdf' target="_blankl">VIEW table</a> is a denormalized, aggregated table built using SQL JOINS to eliminate redundant coding when writing SQL code for answering Business Questions.
+
+Take me to the [Dashboard](https://public.tableau.com/app/profile/sung.keum/viz/CustomerOrderAnalysis_17044704343470/OverviewDashboard).
+
+<p align="center">
+  <img width="1200" height="600" src="/Screenshot (89).png">
+</p>
+<p align="center">
+  <img width="1200" height="600" src="/QSN Retail.png">
+</p>
