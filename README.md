@@ -1,4 +1,4 @@
-<h1>QSN Retail Inc. (SQL Project)</h1>
+<h1>QSN Retail Inc. (SQL + Tableau + Business Analysis Project)</h1>
 
 <h2>📝 Project Description</h2>
 This SQL project involved designing and developing a database for an imaginary retail business. Our team came up with an e-commerce company that sells variety of goods to customers as guests or members. We created a fictious data using MS Excel and built tables with relationships and constraints and imported data onto MySQL server. We used SQL to answer business questions that are relevant for stakeholders for decision-making. Finally, we utilized Tableau to create visualizations and communicate insights to stakeholders.
