@@ -9,7 +9,7 @@ QSN Retail Inc., is an e-commerce company that sells variety of products to ever
 <h2>📁 Files</h2>
 
 
-- [Business Process Diagram (BPMN)](/QSN Retail Inc. BPMN.pdf) is our visual representation of the business process.
+- [Business Process Diagram (BPMN)](/BPMN.pdf) is our visual representation of the business process.
 - [Entity Relationship Diagram (ERD)](/ERD.pdf) is our graphical representation that depicts relationships among tables of data. It serves as the foundation for a relationship database.
 - <a href='/QSN Retail.xlsx' target="_blank">Data</a> is an Excel file containing raw data about our customers, transactions, suppliers, products, etc.
 - <a href='/Analytical Business Questions.docx' target="_blank">Business Questions</a> that our team has come up. We use SQL to answer these questions.
